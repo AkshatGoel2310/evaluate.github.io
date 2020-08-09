@@ -1,0 +1,72 @@
+body {
+  background-image: linear-gradient(#D0CECE, #767171 ,#767171, #D0CECE);
+}
+/* Navigation Bar */
+.EvalU {
+  color: white;
+  padding-left: 20px;
+  font-family: 'Krona One', sans-serif;
+  font-size: 2rem;
+}
+.U {
+  color: #810000;
+}
+.val {
+  font-size: 1.5rem;
+}
+.nav-item {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+/* Top Container */
+
+.bg-image{
+  position: relative;
+  background-image: url('Image3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 670px;
+  filter: blur(1px);
+  z-index: -1;
+}
+
+.text {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 440px;
+  font-size: 6.0rem;
+  color: black;
+  font-weight: bolder;
+  letter-spacing: 20px;
+  background-color: #c1a57b;
+  padding: 0 30px;
+}
+
+.rectangle {
+  height: 290px;
+  width: 10px;
+  background-color: black;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 400px;
+}
+
+/* Contact */
+
+#Contact {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.footer-link {
+  color: grey;
+  padding: 0 8px 20px;
+}
+.footer-link:hover {
+  color:#810000;
+}
+.CR {
+  padding-top: 20px;
+}

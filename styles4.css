@@ -1,0 +1,68 @@
+body {
+ background-color: black;
+}
+/* Navigation Bar */
+.EvalU {
+  color: white;
+  padding-left: 20px;
+  font-family: 'Krona One', sans-serif;
+  font-size: 2rem;
+}
+.U {
+  color: #810000;
+}
+.val {
+  font-size: 1.5rem;
+}
+.nav-item {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+/* Top Container */
+
+.bg-image{
+  position: relative;
+  background-image: url('Image4.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 670px;
+  filter: blur(0px);
+  z-index: -1;
+}
+
+.text {
+  font-family: 'Abril Fatface', cursive;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 28px;
+  font-size: 8.5rem;
+  color: white;
+  font-weight: bolder;
+  letter-spacing: 30px;
+  background-color: #442727;
+  padding:0 40px;
+}
+/* Testimonials */
+
+#Testimonials{
+ background-image: linear-gradient(#D0CECE, #767171 ,#767171, #D0CECE);
+}
+/* Contact */
+
+#Contact {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.footer-link {
+  color: grey;
+  padding: 0 8px 20px;
+}
+.footer-link:hover {
+  color:#810000;
+}
+.CR {
+  padding-top: 20px;
+}
